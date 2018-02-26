@@ -1,12 +1,9 @@
-#!/usr/bin/env python
 import pygame,sys,time,random
 from pygame.locals import *
 
 redColour = pygame.Color(255,0,0)
 blackColour = pygame.Color(0,0,0)
 whiteColour = pygame.Color(255,255,255)
-greyColour = pygame.Color(150,150,150)
-
 
 def gameOver(playSurface):
     gameOverFont = pygame.font.SysFont("chiller", 101)
