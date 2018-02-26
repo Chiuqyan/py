@@ -1,6 +1,6 @@
-esc: exit  \n
-'A' or ←：turn left \n
-'W' or ↑：turn up \n
-'S' or ↓: turn down \n
-'D' or →: turn right \n
+esc: exit</br>
+'A' or ←：turn left</br>
+'W' or ↑：turn up</br>
+'S' or ↓: turn down</br>
+'D' or →: turn right</br>
 'R': restart
